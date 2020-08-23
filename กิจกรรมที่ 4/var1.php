@@ -1,6 +1,6 @@
 <?php
-	$x = 9; 
-    $y = 2;
+	$x = 20; 
+    $y = 5;
 	$result1 = $x + $y;
 	$result2 = $x - $y;
 	$result3 = $x * $y;
