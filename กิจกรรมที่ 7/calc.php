@@ -12,5 +12,4 @@
     else if ($operations == 7) echo "$args1 % $args2 = ",$args1%$args2;
     else if ($operations == 8) echo "$args1 ^ $args2 = ",$args1**$args2;
     else echo "Found error from \"operations\" variable!";
-    
 ?>
